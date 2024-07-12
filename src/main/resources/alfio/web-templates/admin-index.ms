@@ -142,7 +142,7 @@
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </button>
-                        <a data-ui-sref="index" style="margin-right: 10px;"><img alt="Alf.io" src="{{contextPath}}/resources/images/alfio-logo.svg" width="100" height="50"></a>
+                        <a data-ui-sref="index" style="margin-right: 10px;"><img alt="Ticketerio" src="{{contextPath}}/resources/images/logo-ticketeiro.svg" width="100" height="50"></a>
                     </div>
                     <div class="navbar-left">
                         <div class="collapse navbar-collapse" data-uib-collapse="ctrl.menuCollapsed">
