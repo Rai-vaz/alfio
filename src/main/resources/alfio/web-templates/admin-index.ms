@@ -128,7 +128,7 @@
     <script nonce="{{nonce}}" type="text/javascript" src="{{contextPath}}/resources/bower_components/dexie/dist/dexie.min.js"></script>
     <script nonce="{{nonce}}" type="text/javascript" src="{{contextPath}}/resources/bower_components/papaparse/papaparse.min.js"></script>
     <script nonce="{{nonce}}" type="text/javascript" src="{{contextPath}}/resources/bower_components/checklist-model/checklist-model.js"></script>
-    <title>Alf.io Admin</title>
+    <title>Ticketeiro</title>
 </head>
 <body>
     <div class="navbar navbar-default navbar-fixed-top" role="navigation" data-ng-controller="MenuController as ctrl">
